@@ -1,5 +1,9 @@
 # Changelog
 
+## vNext (forked)
+
+- Remove deprecated codenotary fields
+
 ## 2.6.2 (forked)
 
 - Fix for add-on base image and bashio log changes, causing healthcheck messages to be not logged
