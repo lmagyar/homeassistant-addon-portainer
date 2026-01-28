@@ -57,7 +57,7 @@ render your system as unsupported!
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [commits-shield]: https://img.shields.io/github/commit-activity/y/lmagyar/homeassistant-addon-portainer.svg
 [commits]: https://github.com/lmagyar/homeassistant-addon-portainer/commits/main
 [github-actions-shield]: https://github.com/lmagyar/homeassistant-addon-portainer/workflows/Publish/badge.svg
