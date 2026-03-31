@@ -58,7 +58,7 @@
     {
       "matchDatasources": ["github-releases"],
       "matchDepNames": ["portainer/portainer"],
-      "allowedVersions": "/^2\\.33\\.[0-9]+$/",
+      "allowedVersions": "/^2\\.39\\.[0-9]+$/",
       "automerge": true
     }
   ]
