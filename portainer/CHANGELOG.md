@@ -1,6 +1,6 @@
 # Changelog
 
-## vNext (forked)
+## 2.6.4 (forked)
 
 - Update portainer/portainer to v2.33.7
 - Drop support for armv7 architecture
