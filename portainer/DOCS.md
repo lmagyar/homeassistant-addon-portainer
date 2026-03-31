@@ -61,7 +61,7 @@ You have several options to get them answered:
 
 You could also [open an issue here][issue] on GitHub.
 
-[discord]: https://discord.gg/c5DvZ4e
+[discord]: https://www.home-assistant.io/join-chat
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-portainer/68836
 [issue]: https://github.com/lmagyar/homeassistant-addon-portainer/issues
 [reddit]: https://reddit.com/r/homeassistant
