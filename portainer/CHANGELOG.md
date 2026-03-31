@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.6.4 (forked)
+
+- Update portainer/portainer to v2.33.7
+- Drop support for armv7 architecture
+- Update Add-on base image to v20 (drop armv7 support)
+
 ## 2.6.3 (forked)
 
 - Update portainer/portainer to v2.33.6
