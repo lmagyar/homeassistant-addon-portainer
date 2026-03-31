@@ -57,8 +57,7 @@ render your system as unsupported!
 
 ## Installation
 
-1. Navigate in your Home Assistant frontend to **Settings** -> **Add-ons** ->
-   **Add-on Store**.
+1. In Home Assistant, go to **Settings** -> **Apps** -> **Install app**.
 1. In the **...** menu at the top right corner click **Repositories**, add
    `https://github.com/lmagyar/homeassistant-addon-portainer` as repository.
 1. Find the "Portainer" add-on and click it. If it doesn't show up, wait until

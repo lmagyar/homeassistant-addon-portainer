@@ -24,8 +24,7 @@ for "Portainer" and install it as you would any other add-on.
 To be able to use this add-on, you'll need to disable protection mode on this
 add-on. Without it, the add-on is unable to access Docker.
 
-1. Navigate in your Home Assistant frontend to **Settings** -> **Add-ons** ->
-   **Add-on Store**.
+1. In Home Assistant, go to **Settings** -> **Apps** -> **Install app**.
 1. In the **...** menu at the top right corner click **Repositories**, add
    `https://github.com/lmagyar/homeassistant-addon-portainer` as repository.
 1. Find the "Portainer" add-on and click it. If it doesn't show up, wait until
