@@ -7,7 +7,7 @@ SHELL ["/bin/bash", "-o", "pipefail", "-c"]
 
 # Setup base
 ARG BUILD_ARCH=amd64
-ARG PORTAINER_VERSION="2.39.2"
+ARG PORTAINER_VERSION="2.39.3"
 RUN \
     apk add --no-cache \
         nginx=1.28.3-r2 \
