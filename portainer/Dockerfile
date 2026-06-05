@@ -10,7 +10,7 @@ ARG BUILD_ARCH=amd64
 ARG PORTAINER_VERSION="2.39.3"
 RUN \
     apk add --no-cache \
-        nginx=1.28.3-r2 \
+        nginx=1.28.3-r3 \
     \
     && if [ "${BUILD_ARCH}" = "aarch64" ]; then ARCH="arm64"; fi \
     && if [ "${BUILD_ARCH}" = "amd64" ]; then ARCH="amd64"; fi \
