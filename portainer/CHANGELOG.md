@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.7.3 (forked)
+
+- Update portainer/portainer to v2.39.8
+- Update App base image to v21.0.8
+- Properly handle failure during service startup
+
 ## 2.7.2 (forked)
 
 - Update portainer/portainer to v2.39.5
