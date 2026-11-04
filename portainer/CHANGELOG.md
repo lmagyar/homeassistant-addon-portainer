@@ -1,6 +1,6 @@
 # Changelog
 
-## vNext (forked)
+## 2.7.4 (forked)
 
 - Update App base image to v21.0.10
 - Remove hardcoded service names, use argument value from s6
