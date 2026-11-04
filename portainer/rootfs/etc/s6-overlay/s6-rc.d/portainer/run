@@ -14,6 +14,7 @@ bashio::log.info 'Starting Portainer...'
 options+=(--data /data)
 options+=(--bind 0.0.0.0:9000)
 options+=(--host unix:///var/run/docker.sock)
+options+=(--no-setup-token)
 
 # Export agent secret, if defined
 if bashio::config.has_value 'agent_secret' ; then

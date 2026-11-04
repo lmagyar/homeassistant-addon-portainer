@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.7.4 (forked)
+
+- Update App base image to v21.0.10
+- Remove hardcoded service names, use argument value from s6
+- Use a 5s startup healthcheck interval
+- Disable using a setup token
+
 ## 2.7.3 (forked)
 
 - Update portainer/portainer to v2.39.8
