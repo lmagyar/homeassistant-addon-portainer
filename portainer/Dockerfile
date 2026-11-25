@@ -28,8 +28,7 @@ HEALTHCHECK --start-period=30s --start-interval=5s --interval=30s \
 # Environment variables
 ENV \
     # App log format
-    LOG_FORMAT="{TIMESTAMP} {LEVEL}: {MESSAGE}" \
-    LOG_TIMESTAMP="%Y/%m/%d %H:%M:%S"
+    LOG_FORMAT="{LEVEL}: {MESSAGE}"
 
 # Build arguments
 ARG BUILD_ARCH

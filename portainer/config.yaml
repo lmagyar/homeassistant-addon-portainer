@@ -12,6 +12,7 @@ arch:
   - aarch64
   - amd64
 init: false
+log_format: timestamp
 ports:
   8000/tcp: null
 hassio_api: true
