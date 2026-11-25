@@ -4,6 +4,7 @@
 
 - Update portainer/portainer to v2.39.9
 - Update App base image to v21.0.12
+- Show timestamps in app logs by default
 
 ## 2.7.4 (forked)
 
