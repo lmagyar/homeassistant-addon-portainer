@@ -27,7 +27,6 @@ HEALTHCHECK --start-period=30s --start-interval=5s --interval=30s \
 
 # Environment variables
 ENV \
-    # App log format
     LOG_FORMAT="{LEVEL}: {MESSAGE}"
 
 # Build arguments

@@ -23,4 +23,4 @@ fi
 
 # Run Portainer, strip away it's timestamps
 /opt/portainer/portainer "${options[@]}" \
-|& awk -F $'\n' -e '{ sub(/^(\x1B\[...|)[0-9]{4}\/[0-9]{2}\/[0-9]{2} [0-9]{2}:[0-9]{2}(AM|PM|:[0-9]{2})(\x1B\[..|) /, ""); print }'
+|& awk -F $'\n' -e '{ sub(/^(\x1B\[...)?[0-9]{4}\/[0-9]{2}\/[0-9]{2} [0-9]{2}:[0-9]{2}(AM|PM|:[0-9]{2})(\x1B\[..)? /, ""); print }'
